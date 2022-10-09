@@ -1,4 +1,4 @@
-Planet,Type,Mass ( x ME),Diameter (km),Density (g/cm3),Rotation,Axis tilt (deg),Magnetic field,Moons
+Planet,Type,Mass (x ME),Diameter (km),Density (g/cm3),Rotation,Axis tilt (deg),Magnetic field,Moons
 Mercury,Rocky,0.0553,4879,5.427,58.785 d,~0,0.000367,0
 Venus,Rocky,0.815,12104,5.243,243.686 d,177.36,0,0
 Earth,Rocky,1,12742,5.515,23.9345 h,23.44,1,1
